@@ -5,4 +5,4 @@ Este é um projeto desenvolvido pelo Laboratório de Bioinformática da UFOP par
 
 Metagenomic pipeline
 ====================
-We implemented an Apache Airflow DAG to process a set of *.fastqc* files and a *metadata* file. These files must contain basic information for the execution of a metagenomic analytical pipeline.
+We implemented an pipeline to process a set of *.fastqc* files and a *metadata* file. These files must contain basic information for the execution of a metagenomic analytical pipeline.
