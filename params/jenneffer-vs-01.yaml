@@ -1,0 +1,10 @@
+experiment_name: 'jenneffer-vs-01'
+base_dir: '/home/lauro/nupeb/redemicro'
+manifest_file: '/home/lauro/nupeb/redemicro/data/raw/manifest/not-hist-vs-manifest.csv'
+metadata_file: '/home/lauro/nupeb/redemicro/data/raw/metadata/not-hist-vs-metadata.tsv'
+classifier_file: '/home/lauro/nupeb/dados_brutos_rede_genoma/16S_classifiers_qiime2/silva-138-99-nb-classifier.qza'
+phred: 20
+trunc_f: 0
+trunc_r: 0
+overlap: 12
+threads: 6
